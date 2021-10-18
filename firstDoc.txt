@@ -1,0 +1,1 @@
+// this is a git index folder for the understanding of git and its commands
